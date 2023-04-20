@@ -14,7 +14,7 @@ N = int(input())
 
 print('По одному, укажите целые числа:')
 list_1 = list()
-for i in range(N):
+for j in range(N):
     j = int(input())
     list_1.append(j)
 
